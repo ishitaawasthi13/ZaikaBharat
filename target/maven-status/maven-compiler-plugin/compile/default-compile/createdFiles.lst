@@ -1,0 +1,17 @@
+com\zaikabharat\models\Recipe$CookStep.class
+com\zaikabharat\db\DatabaseManager.class
+com\zaikabharat\models\Recipe.class
+com\zaikabharat\ui\MainWindow.class
+com\zaikabharat\ui\screens\FridgeScreen.class
+com\zaikabharat\ZaikaBharatApp.class
+com\zaikabharat\ui\screens\HomeScreen.class
+com\zaikabharat\ui\screens\MapScreen.class
+com\zaikabharat\ui\screens\SearchScreen.class
+com\zaikabharat\ui\screens\RecipeDetailScreen.class
+com\zaikabharat\ui\Navigator.class
+com\zaikabharat\services\RecipeService.class
+com\zaikabharat\ui\screens\MapScreen$MapBridge.class
+com\zaikabharat\ui\screens\CookModeScreen.class
+com\zaikabharat\ui\components\RecipeCard.class
+com\zaikabharat\ui\components\NutritionPanel.class
+com\zaikabharat\services\RecipeService$FridgeMatch.class
