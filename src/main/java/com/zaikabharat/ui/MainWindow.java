@@ -124,7 +124,7 @@ public class MainWindow {
     private VBox buildCredits() {
         VBox box = new VBox(3);
         box.setPadding(new Insets(8, 8, 0, 8));
-        Label v = new Label("v2.0  ·  GUI Edition");
+        Label v = new Label("v1.0  ·  GUI Edition");
         Label c = new Label("Ishita · Kaavya");
         v.getStyleClass().add("sidebar-meta");
         c.getStyleClass().add("sidebar-meta");
